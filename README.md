@@ -108,7 +108,6 @@ Recent breakthroughs at institutions like MIT have demonstrated the direct 3D pr
 ## Final Thoughts
 
 The convergence of electrical conductivity and 3D printing is enabling a revolution in embedded systems, smart components, and miniaturized devices. By selecting the right material for the intended application—balancing mechanical, electrical, and magnetic requirements—engineers and innovators can fabricate highly integrated, multifunctional parts directly from digital models.
-```
-
----
+ 
+ 
 
